@@ -1,0 +1,16 @@
+node_modules/
+.env
+.mastra/
+.wa-session/
+audit/*.jsonl
+*.db
+*.db-shm
+*.db-wal
+dev-out.log
+dev-err.log
+dist/
+*.log
+
+whatsapp-qr.svg
+qr-test.svg
+gw-*.log
